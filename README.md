@@ -6,7 +6,7 @@ Real world Dataset of hazy images
 This repository describes the data collection process used to acquire real-world hazy images for outdoor scenes. The dataset was created with controlled illumination conditions to ensure consistency and reliability for image processing and computer vision research.
 
 ## 📷 Data Collection Methodology
-Real-world hazy images were collected from outdoor environments (refer to Figure 2.10). To reduce illumination variation over time, special measures were taken during image acquisition.
+Real-world hazy images were collected from outdoor environments. To reduce illumination variation over time, special measures were taken during image acquisition.
 
 Environmental illumination (measured in **lux**) was monitored using an **Android-based application** developed by *My Mobile Tools Dev*. All images were captured under approximately the same illumination conditions to maintain dataset uniformity.
 
