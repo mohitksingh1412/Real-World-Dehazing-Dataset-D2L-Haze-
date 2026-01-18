@@ -1,9 +1,10 @@
 
-# Real-World Hazy Image Dataset Collection
+# Real-World Hazy Image Dataset (D2L-Haze)
 Real world Dataset of hazy images 
 
 ## 📌 Overview
 This repository describes the data collection process used to acquire real-world hazy images for outdoor scenes. The dataset was created with controlled illumination conditions to ensure consistency and reliability for image processing and computer vision research.
+We capture 107 high (6000 × 4000,300dpi) and low resolution (4160 × 1952,72dpi) images under the category of dense and low haze respectively (D2L-Haze).
 
 ## 📷 Data Collection Methodology
 Real-world hazy images were collected from outdoor environments. To reduce illumination variation over time, special measures were taken during image acquisition.
