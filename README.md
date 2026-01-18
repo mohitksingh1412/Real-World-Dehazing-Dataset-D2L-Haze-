@@ -51,4 +51,14 @@ This dataset can be used for:
 - All images were captured under similar environmental illumination conditions.
 - The dataset supports both high-resolution and low-resolution image analysis.
 
+## 📜 License & Usage
+
+The images in this repository are the intellectual property of the authors.
+
+- The dataset is intended **for academic and research use only**
+- **Commercial use is prohibited**
+- If you use this dataset in your research, you **must cite the associated paper**
+- Redistribution must retain the original license and citation information
+
+See the [LICENSE](LICENSE) file for full details.
 ---
